@@ -18,6 +18,13 @@ h1 {
     width: 100%;
 }
 
+@media screen and (max-width: 840px) {
+    h1 {
+        font-size: 1.5em;
+        letter-spacing: .3em;
+    }
+}
+
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
